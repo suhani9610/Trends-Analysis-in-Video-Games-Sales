@@ -84,7 +84,10 @@ p-value at 0.05% signficance
 
 ![Code for t-test](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/code%209.png)
 
+T-statistic and p-value are as follows: 
+![t-statistic and p-value](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/Result.png)
 Analysis: the p-vlaue is effectively 0 and since 0 <0.05, we can reject the null hypothesis. Therefore, reviews seem to have a significant impact on Global Sales. 
+
 
 
 
