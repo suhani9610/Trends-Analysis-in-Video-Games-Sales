@@ -27,7 +27,7 @@ The dataset contained multiple null values that had to be removed. Plus the colu
 
 DATA ANALYSIS:
 1. Exploring and visualizing top 10 games sold globally.
-![Top 10],(https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/code%203.png)
+![Top 10](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/code%203.png)
 
 Plot:
 ![Plot for Top 10 games](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/figure%201.png)
