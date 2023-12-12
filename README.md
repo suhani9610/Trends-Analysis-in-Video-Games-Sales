@@ -4,7 +4,9 @@
 
 **Objective**: 
 -Data Collection: Collection of data is the first step and can be fetched from various sources such as open source websites, API or web scraping.
--Data Cleaning: Various data cleaning techniques are used to ensure that the data is free from null or redundant values, outliers, inconsistencies to conduct an accurate data analysis. 
+
+-Data Cleaning: Various data cleaning techniques are used to ensure that the data is free from null or redundant values, outliers, inconsistencies to conduct an accurate data analysis.
+
 -Data analysis: This project involves trends analysis, customer review analysis and hypothesis testing in video games sales over multiple vairables to uncover insights and hidden patterns in the dataset.
 
 **Technologies Used**: Python
