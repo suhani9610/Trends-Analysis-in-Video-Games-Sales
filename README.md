@@ -16,7 +16,7 @@ DATA COLLECTION:
 The data for this project has been fetched from Kaggle. Source: https://www.kaggle.com/datasets/thedevastator/discovering-hidden-trends-in-global-video-games
 
 Data is then fed to python and displayed using the following code:
-![Data Cllection](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/main/Screen%20Shot%202023-12-11%20at%209.44.57%20PM.png)
+![Data Cllection](https://github.com/suhani9610/Trends-Analysis-in-Video-Games-Sales/blob/Images/Screen%20Shot%202023-12-11%20at%209.44.57%20PM.png)
 
 COLUMNS: The columns in the dataset are: Index, Rank, Game Title, Platform, Year, Genre, Publisher, North America,
 Europe, Japan, Rest of the World, Global and Reviews. 
